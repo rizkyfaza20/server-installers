@@ -22,5 +22,6 @@ OUTLINE
 - [Setup](setup)  
   Linux server basic setup
 
-- [Additional](additional)
+- [Additional]
+  
   Linux services; JDK, Elasticsearch, Keycloak etc.
