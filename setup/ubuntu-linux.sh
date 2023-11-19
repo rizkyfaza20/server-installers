@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing App Services for LiveCom App :"
+echo "Installing App Services for Linux Ubuntu :"
 echo "1. JDK 11"
 echo "2. Tomcat 9"
 echo "3. Elastic Search"
@@ -60,4 +60,3 @@ case $options in
         echo "The options that you input is wrong, please try again."
     ;;
 esac
-    

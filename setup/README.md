@@ -29,3 +29,10 @@ $ bash <(wget -qO- https://raw.githubusercontent.com/yidas/server-installers/mas
 ```
 $ bash <(wget -qO- https://raw.githubusercontent.com/yidas/server-installers/master/setup/ubuntu18.04.sh)
 ```
+### Ubuntu Server (Common)
+
+At this installer contain on how to install JDK, Elasticsearch, Keycloak etc.
+
+```
+bash <(wget -qO- https://raw.githubusercontent.com/rizkyfaza20/server-installers/development/setup/ubuntu-linux.sh)
+```

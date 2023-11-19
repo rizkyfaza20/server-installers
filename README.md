@@ -1,7 +1,7 @@
 Server Service Installers
 =========================
 
-BASH Shell scripts for installing services on Linux server
+BASH Shell scripts for installing services on Linux server (Ubuntu, but can be ported to other Linux.)
 
 
 OUTLINE
@@ -21,3 +21,6 @@ OUTLINE
   
 - [Setup](setup)  
   Linux server basic setup
+
+- [Additional](additional)
+  Linux services; JDK, Elasticsearch, Keycloak etc.
